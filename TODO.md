@@ -8,6 +8,7 @@
 - [ ] GUI for Player List
 - [ ] GUI for Player Names above Player / Trucks when inside
 - [ ] In-Game Text Chat
+- [ ] Dedicated Server
 
 
 # Feature Wishlist
