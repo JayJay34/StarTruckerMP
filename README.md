@@ -1,4 +1,8 @@
 # StarTruckerMP
+Please report bugs & issues to the [Issues](https://github.com/JayJay34/StarTruckerMP/issues) tab.
+
+## To install & play
+For installation instructions check out the [Wiki](https://github.com/JayJay34/StarTruckerMP/wiki)
 
 ## For Developers
 
